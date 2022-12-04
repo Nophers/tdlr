@@ -1,0 +1,13 @@
+name: tdlr
+version: 1.1.0
+
+authors:
+  - vKxni
+
+targets:
+  tdlr:
+    main: src/tdlr.cr
+
+crystal: 1.6.2
+
+license: MIT
